@@ -43,7 +43,7 @@ This is a web application for buying and selling cryptocurrencies. It utilizes b
 4. Start the development server:
 
    ```bash
-   npm run start
+   npm run dev
    ```
 
 5. Access the application in your browser at `http://localhost:3000`.
