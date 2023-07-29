@@ -58,7 +58,7 @@ This is a web application for buying and selling cryptocurrencies. It utilizes b
 6. Track your transaction history for auditing purposes.
 7. Securely store and manage your cryptocurrencies in your wallet.
 
-##Visit website(demo)
+## Visit website(demo)
 https://krypt-web3.vercel.app/
 
 
