@@ -58,19 +58,7 @@ This is a web application for buying and selling cryptocurrencies. It utilizes b
 6. Track your transaction history for auditing purposes.
 7. Securely store and manage your cryptocurrencies in your wallet.
 
-## Contributing
+##Visit website(demo)
+https://krypt-web3.vercel.app/
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- The Solidity contract used in this project is based on the [OpenZeppelin](https://openzeppelin.com/) library.
-- The blockchain implementation is inspired by the concepts introduced in the Bitcoin whitepaper.
-
-## Disclaimer
-
-This application is for educational purposes only and does not constitute financial advice. Users should conduct their own research and exercise caution when trading cryptocurrencies.
