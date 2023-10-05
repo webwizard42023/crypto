@@ -1,6 +1,12 @@
-# Crypto Trading Website
+# REDUCING GAS FEES AND IMPROVE TRANSACTION IN ETHERUM 
 
-This is a web application for buying and selling cryptocurrencies. It utilizes blockchain technology and implements the Proof of Work algorithm for security. The application is built using React, JavaScript, Tailwind CSS, JSX, and Solidity. The tool used for development and testing is npm live server. The application offers fast and efficient transactions for users.
+## Overview
+
+This project focuses on optimizing Ethereum transactions by implementing two key strategies:
+
+1. **Layer 2 Scaling Solutions:** In an effort to reduce gas fees and enhance transaction throughput, we have integrated Layer 2 scaling solutions, including Optimistic Rollups and zk-Rollups. These solutions efficiently offload transaction processing from the main Ethereum chain, resulting in a significant reduction in gas fees for users. Additionally, this implementation improves overall transaction speed, ensuring a more seamless experience for Ethereum users.
+
+2. **Transaction Batching:** To further optimize gas consumption and minimize transaction costs for users, we have introduced transaction batching mechanisms. This approach allows us to bundle multiple transactions into a single transaction, significantly reducing the overall cost associated with executing these transactions. By optimizing gas consumption, we aim to provide a cost-effective solution for Ethereum users, making it more accessible and efficient to perform multiple transactions on the Ethereum network.
 
 ## Features
 
@@ -15,48 +21,12 @@ This is a web application for buying and selling cryptocurrencies. It utilizes b
 ## Technologies Used
 
 - React
-- JavaScript
-- Tailwind CSS
-- JSX
-- Solidity
+- Java
+- Sql
+- aws
+- linux operating system
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/crypto-trading-website.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd crypto-trading-website
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Access the application in your browser at `http://localhost:3000`.
-
-## Usage
-
-1. Create an account or log in to your existing account.
-2. Set up your wallet by generating a unique address.
-3. Deposit funds into your wallet.
-4. View real-time market data and charts to make informed decisions.
-5. Buy or sell cryptocurrencies using the available options.
-6. Track your transaction history for auditing purposes.
-7. Securely store and manage your cryptocurrencies in your wallet.
 
 ## Visit website(demo)
 https://krypt-web3.vercel.app/
