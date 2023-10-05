@@ -8,8 +8,8 @@ public class DatabaseConnectionExample {
     public static void main(String[] args) {
         // Database URL, username, and password
         String url = "jdbc:mysql://localhost:3306/your_database_name";
-        String username = "your_username";
-        String password = "your_password";
+        String username = "username";
+        String password = "password";
 
         // JDBC variables
         Connection connection = null;
